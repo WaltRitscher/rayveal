@@ -14,7 +14,7 @@ opinionated reveal.js
 ## Pretty Picture
 
 - Code on the beach
--  Image by frank-mckenna
+- Image by frank-mckenna
 <!-- .slide: data-state="textonimage" data-background-image="https://waltritscher.github.io/rayveal/slides/frank-mckenna-117065.jpg" -->
 
 ---
