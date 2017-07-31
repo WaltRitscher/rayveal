@@ -6,8 +6,8 @@ opinionated reveal.js
 
 ## Explore new Frontiers
 
-- Check out this Visual Studio Unit Test course [(https://www.lynda.com/Visual-Studio-tutorials/Visual-Studio-2015-Essentials-09-Unit-Tests/480769-2.html)
-- 'OMG' unit tests! 
+- Check out this  [[Visual Studio Unit Test course](https://www.lynda.com/Visual-Studio-tutorials/Visual-Studio-2015-Essentials-09-Unit-Tests/480769-2.html)
+- `OMG` unit tests! 
 
 ---
 
