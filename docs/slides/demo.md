@@ -12,7 +12,7 @@ opinionated reveal.js
 ---
 
 ## Pretty Picture
-<small>&lt;!-- .slide: data-state="textonimage" data-background-image="rayveal/slides/frank-mckenna-117065.jpg" --&gt;</small>
+<small>&lt;!-- .slide: data-state="textonimage" data-background-image="/slides/frank-mckenna-117065.jpg" --&gt;</small>
 - Code on the beach
 -  Image by frank-mckenna
 
