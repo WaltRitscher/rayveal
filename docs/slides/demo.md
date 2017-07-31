@@ -12,7 +12,7 @@ opinionated reveal.js
 ---
 
 ## Pretty Picture
-<!-- .slide: data-state="textonimage" data-background-image="https://unsplash.com/?photo=ktQuuihh3_w -->
+
 - Code on the beach
 
 
