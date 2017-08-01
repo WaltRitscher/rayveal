@@ -15,7 +15,7 @@ opinionated reveal.js
 
 - Code on the beach
 - Image by frank-mckenna
-<!-- .slide: data-state="textonimage" data-background-image="https://waltritscher.github.io/rayveal/slides/frank-mckenna-117065.jpg" -->
+<!-- .slide: data-state="textonimage" data-background-image="slides/frank-mckenna-117065.jpg" -->
 
 ---
 
